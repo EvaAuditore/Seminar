@@ -8,7 +8,6 @@ start_game()
 create_field()
 turn()
 player_1_turn()
-player_2_turn()
 create_field()
 
 
